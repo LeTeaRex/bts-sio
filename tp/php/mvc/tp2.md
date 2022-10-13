@@ -347,7 +347,7 @@ public function fiche($id="")
 
 ### Créer la route /client/{id}
 
-Nous avons vu en introduction de ce TP qu'il était possible de réaliser des routes assez jolies. Je vous laisse créer une nouvelle route dans votre projet. Celle-ci va devoir devra appeler la méthode `fiche` de votre contrôleur `FicheControleur`.
+Nous avons vu en introduction de ce TP qu'il était possible de réaliser des routes assez jolies. Je vous laisse créer une nouvelle route dans votre projet. Celle-ci devra appeler la méthode `fiche` de votre contrôleur `FicheControleur`.
 
 ### Créer la fiche client
 
